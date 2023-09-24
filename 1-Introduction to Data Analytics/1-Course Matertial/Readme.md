@@ -1,1 +1,1 @@
-## Course notes and exercises, quuizes etc.
+## Course notes and exercises, quizes etc.

@@ -7,8 +7,6 @@ Learn how to visualize data and present findings using various charts in Excel s
 Develop working knowledge of Python language for analyzing data using Python libraries like Pandas and Numpy, and invoke APIs and Web Services 
 Gain technical experience through hands-on labs and projects and build a portfolio to showcase your work
 
-![image](https://github.com/garynth41/IBM-Data-Analyst-Professional-Certificate/assets/45762811/5eac109a-482f-49b7-a3af-49aa696e729d)
-
 ### Skills you'll gain
 Data Science
 Spreadsheet

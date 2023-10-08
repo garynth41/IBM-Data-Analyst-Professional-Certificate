@@ -10,7 +10,7 @@ Analyzing data with Python is an essential skill for Data Scientists and Data An
 - model refinement 
 - creating data pipelines 
 
-You will learn how to import data from multiple sources, clean and wrangle data, perform exploratory data analysis (EDA), and create meaningful data visualizations. You will then predict future trends from data by developing linear, multiple, polynomial regression models & pipelines and learn how to evaluate them.  
+You will learn how to import data from multiple sources, clean and wrangle data, perform exploratory data analysis (EDA), and create meaningful data visualizations. You will then predict future trends from data by developing linear, multiple, polynomial regression models & pipelines and learn how to evaluate them.   
 
 In addition to video lectures you will learn and practice using hands-on labs and projects. You will work with several open source Python libraries, including Pandas and Numpy to load, manipulate, analyze, and visualize cool datasets. You will also work with scipy and scikit-learn, to build machine learning models and make predictions.  
 
@@ -20,7 +20,7 @@ In addition to video lectures you will learn and practice using hands-on labs an
 3. Manipulate data using dataframes, summarize data, understand data distribution, perform correlation, and create data pipelines
 4. Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision-making
 
-## Skills you'll gain
+## Skills Gained:in
 - Predictive Modelling
 - Python Programming
 - Data Analysis

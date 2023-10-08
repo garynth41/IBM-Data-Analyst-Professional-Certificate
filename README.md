@@ -8,16 +8,18 @@ Develop working knowledge of Python language for analyzing data using Python lib
 Gain technical experience through hands-on labs and projects and build a portfolio to showcase your work
 
 ### Skills you'll gain
-Data Science
-Spreadsheet
-Microsoft Excel
-Python Programming
-Data Analysis
-Pandas
-Numpy
-Data Visualization (DataViz)
-Pivot Table
-SQL
-IBM Cognos Analytics
-Dashboard
+1. Data Science
+2. Spreadsheet
+3. Microsoft Excel
+4. Python Programming
+
+
+## Data Analysis
+- Pandas
+- Numpy
+- Data Visualization (DataViz)
+- Pivot Table
+- SQL
+- IBM Cognos Analytics
+- Dashboard
 
